@@ -1,0 +1,13 @@
+,City,Month,Average Temperature (C),Average Temperature (F),Raindays,Precipitation (mm)
+0,Los Angeles,2019-01,14.2,57.56,8,140
+1,Los Angeles,2019-02,12.0,53.6,10,112
+2,Los Angeles,2019-03,15.3,59.540000000000006,4,53
+3,Los Angeles,2019-04,17.0,62.6,1,1
+4,Los Angeles,2019-05,16.7,62.06,4,19
+5,Los Angeles,2019-06,19.1,66.38,0,0
+6,Los Angeles,2019-07,20.8,69.44,1,1
+7,Los Angeles,2019-08,21.4,70.52,0,0
+8,Los Angeles,2019-09,23.0,73.4,0,0
+9,Los Angeles,2019-10,21.2,70.16,0,0
+10,Los Angeles,2019-11,17.6,63.68000000000001,3,37
+11,Los Angeles,2019-12,14.9,58.82,7,112

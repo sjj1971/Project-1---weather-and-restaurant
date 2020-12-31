@@ -1,0 +1,13 @@
+,City,Month,Average Temperature (C),Average Temperature (F),Raindays,Precipitation (mm)
+0,San Francisco,2019-01,12.7,54.86,8,117
+1,San Francisco,2019-02,10.0,50.0,16,183
+2,San Francisco,2019-03,12.5,54.5,14,114
+3,San Francisco,2019-04,15.0,59.0,2,5
+4,San Francisco,2019-05,14.8,58.64,5,51
+5,San Francisco,2019-06,18.4,65.12,0,0
+6,San Francisco,2019-07,18.2,64.75999999999999,0,0
+7,San Francisco,2019-08,20.2,68.36,0,0
+8,San Francisco,2019-09,20.0,68.0,1,2
+9,San Francisco,2019-10,17.8,64.03999999999999,0,0
+10,San Francisco,2019-11,13.5,56.3,4,33
+11,San Francisco,2019-12,11.9,53.42,13,95
